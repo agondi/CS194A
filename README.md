@@ -10,7 +10,9 @@ The goal for this class is to build several Android apps together, empowering yo
 
 ## Assignments
 [Assignment 1](https://github.com/agondi/CS194A/tree/master/HW1)
+
 [Assignment 2]
+
 [Assignment 3]
 
 
