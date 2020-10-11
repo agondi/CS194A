@@ -1,24 +1,26 @@
 # Tip Calculator 
 
-## *Your name here*
+## Amita Gondi
 
 **Tippy** computes the tip and total amount for a bill. The app uses the base amount and tip percentage to calculate the amount owed, and it also describes the quality of service based on the tip.
 
-Time spent: **X** hours spent in total
+Time spent: **2** hours spent in total
 
 ## Functionality 
 
 The following **required** functionality is completed:
 
-* [ ] User can enter in a bill amount (total amount to tip on)
-* [ ] User can enter a tip percentage (what % the user wants to tip).
-* [ ] The tip and total amount are updated immediately when any of the inputs changes.
-* [ ] The user sees a label or color update based on the tip amount. 
+* [X] User can enter in a bill amount (total amount to tip on)
+* [X] User can enter a tip percentage (what % the user wants to tip).
+* [X] The tip and total amount are updated immediately when any of the inputs changes.
+* [X] The user sees a label or color update based on the tip amount. 
 
 The following **extensions** are implemented:
 
-* [ ] Custom colors palette selected
-* [ ] List anything else that you did to improve the app functionality or design!
+* [X] Custom colors palette selected
+* [X] Replace the text describing the tip (“poor”, “good”, etc) with emojis.
+* [X] Improve the user interface through styling and coloring, e.g. change the text color, font,
+optimize the layout for different screens. See the ​styling screens​ FAQ.
 
 ## Video Walkthrough
 
@@ -31,10 +33,12 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 ## Notes
 
 Describe any challenges encountered while building the app.
+While attempting to do the currency extension, was a bit confused about how ot use onClickListener.
+From a style point of view, took a few too many trial and errors to find an appealing color scheme
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2020 Amita Gondi
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
