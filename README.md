@@ -1,5 +1,4 @@
-# Stanford CS 194A Android Workshop
-Fall 2020
+# Stanford CS 194A Android Workshop - Fall 2020
 
 ## Amita Gondi
 
