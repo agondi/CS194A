@@ -1,6 +1,6 @@
 # Stanford CS 194A Android Workshop - Fall 2020
 
-## [[Syllabus Link]](https://piazza.com/class_profile/syllabus/kf419yi01sy6rt)
+## [[Syllabus]](https://piazza.com/class_profile/syllabus/kf419yi01sy6rt)
 
 Learn basic, foundational techniques for developing Android mobile applications and apply those toward building a single or multi page, networked Android application.
 
